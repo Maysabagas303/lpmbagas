@@ -1,0 +1,34 @@
+#Maysa-Bagas-UKK-)2021
+
+Instalasi WEB pada XAMPP,PHP,MySQL
+
+1. install XAMPP
+2. Ekstrak file Ujikom-Maysa-Bagas.rar
+3. Pindahkan folder ke Xampp/htdocs
+4. Jalankanalankan aplikasi xampp pada browser kalian dengan mengaktifkan Apache dan MySQL
+5. Buka server PhHPMyAdmin
+6. Buat Basisdata/Database
+7. Import database yg tersedia dalam folder web yg di ekstrak tadi, lokasi database:
+   (C:\xampp\htdocs\ujikom-maysa-bagas\database), yang bernama pengaduan_masyarakat.sql dan kirim/go
+
+ Beranda WEB
+ 1.Login
+  -jika ingin login sebagai admin gunakan username"Bagas" dan password"bgswijs303"
+  -jika ingin login sebagai petugas gunakan username"Dary" dan password"dary123"
+  -jika ingin login sebagai Masyarakat gunakan username"sahril" dan password"sahril123"
+ 2.Register masyarakat
+  -isi NIK,Nama lengkap,Username,password,dan nomer telepon
+ 3. fitur web
+  *Jika login sebagai admin
+   -pengaduan masuk
+   -pengaduan diproses
+   -pengaduan ditolak
+   -pengaduan selesai
+   -tambah user(menambah admin/petugas)
+  *Jika login sebagai petugas
+   -pengaduan masuk
+   -pengaduan diproses
+   -pengaduan ditolak
+   -pengaduan selesai
+  *Jika login sebagai masyarakat
+   -tulis laporan
